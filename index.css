@@ -19,7 +19,7 @@ z-index: -1;
   text-align:center;
   position: relative;
   top:1em;
-  right:4em;
+  justify-content:center;
   animation: intro;
   animation-duration: 2s;
 }
